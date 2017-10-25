@@ -1,0 +1,2 @@
+# exo-capacitacion
+training Neurotec
